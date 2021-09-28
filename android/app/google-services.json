@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "893897532060",
+    "project_id": "monitrajatiktok",
+    "storage_bucket": "monitrajatiktok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893897532060:android:39b77700ae0225fb8a0359",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893897532060-mu7rnp1qfacckf1i6fff48qdksnmdu9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruuv3fOgu_V0Fv31uDYMqfcB63xGwyUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893897532060-mu7rnp1qfacckf1i6fff48qdksnmdu9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893897532060:android:f792f945d9e0624c8a0359",
+        "android_client_info": {
+          "package_name": "com.example.login_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893897532060-mu7rnp1qfacckf1i6fff48qdksnmdu9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruuv3fOgu_V0Fv31uDYMqfcB63xGwyUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893897532060-mu7rnp1qfacckf1i6fff48qdksnmdu9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893897532060:android:e27b7b5c7d8a64368a0359",
+        "android_client_info": {
+          "package_name": "com.example.monitrajatiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893897532060-mu7rnp1qfacckf1i6fff48qdksnmdu9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruuv3fOgu_V0Fv31uDYMqfcB63xGwyUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893897532060-mu7rnp1qfacckf1i6fff48qdksnmdu9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
